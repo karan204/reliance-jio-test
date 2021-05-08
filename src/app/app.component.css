@@ -1,0 +1,123 @@
+.image_text{
+    z-index: 0;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.banner{
+    width: 100%;
+    z-index: -1;
+    margin-bottom: -200px;
+    position: relative;
+}
+.group6577{
+    margin-top: 13%;
+    left: 308px;
+    width: 100%;
+    height: 594px;
+    opacity: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+.group6577_div1{
+    margin-top: 50px;color: #4096ef;
+    margin-left: 308px;
+}
+.group6577_div2{
+    margin-left: 308px;
+    display: flex;
+}
+span{
+    color: #4096ef;
+    cursor: pointer;
+}
+.jio_developer_platform{
+    position: absolute;
+    text-align: center;
+    
+}
+.jio_developer_platform>h1{
+    color: #4096ef;
+    margin-top:-100px
+}
+.jio_developer_platform_div{
+    display: flex;
+    justify-content: space-around;
+}
+.jio_imagined{
+    text-align: center;
+    font-size: 30px;
+    color:#4096EF;
+    font: normal normal 900 30px/35px Avenir;
+    margin-top: 137px;
+}
+.jio_launch{
+    text-align: center;
+    font-size: 20px;
+    color:#FFFFFF;
+    font: normal normal medium 20px/25px JioType;
+}
+.group114_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.group111_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -112px;
+    width: 200px;
+}
+.group149_img{
+    display: block;margin-left: auto;margin-right: auto;width: 150px;margin-top: 10px;
+}
+
+.jioglass_launch_2021{
+    left: 1px;height: 290px;
+    background: #1A1A1A 0% 0% no-repeat padding-box; 
+    opacity: 1;
+    text-align: center;  
+}
+.jio_step_process{
+    top: 0px;
+    left: 0px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.jio_step_process_head{
+    width: 290px;
+    height: 41px;
+    font: normal normal 900 30px/35px Avenir;
+    letter-spacing: 0px;
+    color: #4096EF;
+    opacity: 1;
+    margin-top: 232px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.jio_step_process_all_content{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 232px;
+}
+.jio_step_process_content{
+    display: flex;
+    flex-direction: column;
+}
+.jio_glass_develop{
+    left: 1px;
+    height: 290px;
+    background: #FFFFFF 0% 0% no-repeat padding-box; 
+    opacity: 1;
+}
+.jio_glass_develop_head{
+    margin-left: 150px;
+    color: #166FCC;
+    font: normal normal 900 30px/35px Avenir;
+}
